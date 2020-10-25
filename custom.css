@@ -1,0 +1,28 @@
+
+
+html {
+    min-height: 100vh;
+}
+
+.fondo {
+    background: url("imagenes/fondo.jpg");
+    min-height: 100vh;
+}
+
+.espacio{
+	height: 100px;
+}
+
+img.cerveza{
+  width: 208px; height: 243px;
+}
+
+div.espacio{
+	height: 20px;
+}
+
+#listado{
+  color: aliceblue;
+  font-weight: bold;
+}
+

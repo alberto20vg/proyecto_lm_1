@@ -1,0 +1,1 @@
+He usado un badge para el boton de notificaciones de la nav, un alert para el aviso de mantenimiento y un carousel para los patrocinadores.
